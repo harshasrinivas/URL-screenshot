@@ -1,2 +1,4 @@
 # URL-screenshot
-A Command Line Tool to capture the screenshot of a page and download it, given its URL.
+A Script to capture the screenshot of a page and download it, given its URL.
+It uses the page2images API to fetch the Screenshot.
+You can also choose to download it.
